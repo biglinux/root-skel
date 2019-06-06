@@ -1,0 +1,9 @@
+Commit Log for Sun Mar 24 20:09:33 2019
+
+
+Installed the following packages:
+grub-efi-amd64-signed (1+2.02+dfsg1+13)
+grub-efi-amd64-signed-template (2.02+dfsg1-13)
+mokutil (0.2.0-1+b3)
+shim (0.9+1474479173.6c180c6-1)
+shim-signed (1.28+nmu1+0.9+1474479173.6c180c6-1)

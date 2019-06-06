@@ -1,0 +1,10 @@
+Package: root-skel
+Version: 1.0.0-1big1
+Depends:
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:660
+Description: Home configuration to root user
+

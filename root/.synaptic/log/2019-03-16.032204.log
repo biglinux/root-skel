@@ -1,0 +1,27 @@
+Commit Log for Sat Mar 16 03:22:04 2019
+
+
+Upgraded the following packages:
+file (1:5.35-2) to 1:5.35-4
+iptables (1.8.2-3) to 1.8.2-4
+libattr1 (1:2.4.47-4) to 1:2.4.48-4
+libc-bin (2.28-7) to 2.28-8
+libcryptsetup12 (2:2.1.0-1) to 2:2.1.0-2
+libdebconfclient0 (0.247) to 0.248
+libgl1-mesa-dri (18.3.4-1) to 18.3.4-2
+libhttp-daemon-perl (6.01-1) to 6.01-3
+libio-stringy-perl (2.111-2) to 2.111-3
+libip4tc0 (1.8.2-3) to 1.8.2-4
+libip6tc0 (1.8.2-3) to 1.8.2-4
+libiptc0 (1.8.2-3) to 1.8.2-4
+libllvm7 (1:7.0.1-6) to 1:7.0.1-8
+libmagic-mgc (1:5.35-2) to 1:5.35-4
+libmagic1 (1:5.35-2) to 1:5.35-4
+libmariadb3 (1:10.3.12-2) to 1:10.3.13-1
+libssl1.1 (1.1.1a-1) to 1.1.1b-1
+libxml-parser-perl (2.44-2+b4) to 2.44-4
+libxtables12 (1.8.2-3) to 1.8.2-4
+mariadb-common (1:10.3.12-2) to 1:10.3.13-1
+openssl (1.1.1a-1) to 1.1.1b-1
+publicsuffix (20190128.1516-1) to 20190221.0923-1
+tzdata (2018i-1) to 2018i-2

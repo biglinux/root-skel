@@ -1,0 +1,12 @@
+Commit Log for Tue Mar 26 07:39:22 2019
+
+
+Completely removed the following packages:
+grub-pc-bin
+
+Installed the following packages:
+grub-efi-amd64-signed (1+2.02+dfsg1+13)
+
+Reinstalled the following packages:
+linux-image-4.19.0-2-amd64 (4.19.16-1)
+linux-image-5.0.4-xanmod3 (1.190323)

@@ -1,0 +1,31 @@
+[ActivityManager]
+_k_friendly_name=Gerenciador de atividades
+switch-to-activity-e9bcf65c-3a8a-46ed-affa-dea14743471b=none,none,Alternar para a atividade "Padr\xc3\xa3o"
+
+[KDE Keyboard Layout Switcher]
+Switch to Next Keyboard Layout=Ctrl+Alt+K,none,Mudar para o pr\xc3\xb3ximo layout de teclado
+_k_friendly_name=KDE Daemon
+
+[kded5]
+Show System Activity=Ctrl+Esc,Ctrl+Esc,Mostrar a atividade do sistema
+_k_friendly_name=KDE Daemon
+display=Display\tMeta+P,Display\tMeta+P,Alternar tela
+
+[khotkeys]
+_k_friendly_name=KDE Daemon
+{0cd939e8-3cd9-4611-88f0-c8fb73972c8f}=Meta+Shift+Print,none,Capturar a imagem de uma regi\xc3\xa3o retangular
+{4f9f3a6a-8fc2-4886-b967-1a575252474a}=Shift+Print,none,Capturar a tela inteira
+{5d05738f-d4c0-4698-96ef-e46d0271bb97}=Print,none,Iniciar a ferramenta de captura de tela
+{cb644199-999b-434b-9f33-b9ab4ed25266}=Meta+Print,none,Capturar a imagem da janela ativa
+{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=Search,none,Pesquisar
+
+[wacomtablet]
+Map to fullscreen=Meta+Ctrl+F,Meta+Ctrl+F,Mapear para tela inteira
+Map to screen 1=Meta+Ctrl+1,Meta+Ctrl+1,Mapear para tela 1
+Map to screen 2=Meta+Ctrl+2,Meta+Ctrl+2,Mapear para tela 2
+Next Profile=Meta+Ctrl+N,Meta+Ctrl+N,Pr\xc3\xb3ximo perfil
+Previous Profile=Meta+Ctrl+P,Meta+Ctrl+P,Perfil anterior
+Toggle screen map selection=Meta+Ctrl+M,Meta+Ctrl+M,Alternar entre todas as telas
+Toggle stylus mode=Meta+Ctrl+S,Meta+Ctrl+S,Comutar a ferramenta da caneta para relativa/absoluta
+Toggle touch tool=Meta+Ctrl+T,Meta+Ctrl+T,Ativar/Desativar a ferramenta de Toque
+_k_friendly_name=Mesa digitalizadora Wacom
