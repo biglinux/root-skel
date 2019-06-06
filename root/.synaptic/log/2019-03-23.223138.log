@@ -1,9 +1,0 @@
-Commit Log for Sat Mar 23 22:31:38 2019
-
-
-Installed the following packages:
-acpi-call-dkms (1.1.0-4)
-ethtool (1:4.19-1)
-libcpupower1 (4.19.16-1)
-linux-cpupower (4.19.16-1)
-tp-smapi-dkms (0.43-1)

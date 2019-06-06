@@ -1,8 +1,0 @@
-Commit Log for Tue Mar 26 10:23:38 2019
-
-
-Completely removed the following packages:
-grub-efi-amd64-signed
-
-Installed the following packages:
-grub-pc-bin (2.02+dfsg1-13)
